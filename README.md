@@ -1,6 +1,6 @@
 JavaScript: Aprofundando em MVC, padrão Proxy e Factory
 
-Nível: Básico Carga Horária 12hrs Data do Início: 21/09/2020 Data do Término: 
+Nível: Básico Carga Horária 12hrs Data do Início: 21/09/2020 Data do Término: 25/10/2020
 
 Una o paradigma orientado a objetos ao funcional para resolver problemas
 
